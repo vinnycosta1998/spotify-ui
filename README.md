@@ -1,6 +1,6 @@
 # 📸 Overview:
 
-![](.github/photo1.jpeg)
+![](.github/photo1.png)
 
 # 💻 Project:
 
